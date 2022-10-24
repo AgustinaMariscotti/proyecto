@@ -1,0 +1,27 @@
+
+body {background-image: url(../imagenes/santa4.jpg);
+background-size: contain;}
+
+.titulo1 {color: #F8E0F7; text-decoration: underline; text-align: center;}
+.titulo2 {color: #F8E0F7; text-decoration: underline; text-align: center;}
+.titulo3 {color: #F8E0F7; }
+.subtitulo{color: #F8E0F7;font-size: 20pt}
+.subtitulo1 {color: #F8E0F7;font-size: 20pt}
+.titulo4{color: #F8E0F7; text-decoration: underline; text-align: center; }
+.titulo5{color: #F8E0F7;}
+.acompañamiento {color: #F8E0F7;font-size: 20pt}
+
+.imagen1{outline: 5px solid #FDFEFE; width: 500px}
+.imagen2{outline: 5px solid #FDFEFE; width: 300px}
+.imagen3{outline: 5px solid #FDFEFE; width: 700px}
+.parrafo1 {color: #FFFFFF; font-size: 22pt; font-style: italic;}
+.parrafo2 {color: #FFFFFF; font-size: 22pt; font-style: italic;}
+.parrafo3 {color: #FFFFFF; font-size: 22pt; font-style: italic;}
+
+.lista1 {color: #D2B4DE; font-size: 20pt}
+.lista2 {color: #D2B4DE; font-size: 20pt}
+.lista3 {color: #D2B4DE; font-size: 20pt}
+.texto1{color: #D2B4DE; font-size: 20pt;}
+.texto2{color: #D2B4DE; font-size: 20pt;}
+
+.enlace {color: #D2B4DE; font-size: 20pt;}
